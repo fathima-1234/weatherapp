@@ -11,7 +11,7 @@ import rain from '../Assets/rain.png'
 
 
 function WeatherApp() {
-  const Api = "fc659b5f4d8c11a06b7b40cbd0c6225a"
+  const Api = "10816b9c4c19c3ba2c18756d1f542c3a"
   const [searchInput, setSearchInput] = useState('')
   const [values, setValues] = useState({})
   const [image, setImage] = useState('')
